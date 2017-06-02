@@ -1,7 +1,7 @@
 # downloading_is_sick
 why download if its available online......start remembering the links
 
-who wants likes download lots of pdf..they make download folder a mess.
+who  likes to download lots of pdf..they make download folder a mess.
 
 > here is easy solution-
 
