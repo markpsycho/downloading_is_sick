@@ -62,7 +62,7 @@ chrome.runtime.onMessage.addListener(
 		 		if(j >=0){
 		 			store[i]["arr"].splice(j,1);
 		 			store[i]["arr_desc"].splice(j,1);
-
+		 			store[i]["numb"]=store[i]["numb"]-1;
 	
 		 			var h=JSON.stringify(store);
 			// console.log("this is store \n"+ h);
